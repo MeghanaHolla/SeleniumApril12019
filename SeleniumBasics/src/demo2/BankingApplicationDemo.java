@@ -38,6 +38,7 @@ public class BankingApplicationDemo {
 		
 	}
 	@Test
+	//Modifyig the code after defect click
 	public void validateFundTransfer()  {
 		
 		WebElement fromAccount = driver.findElement(By.id("tf_fromAccountId"));
