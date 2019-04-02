@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35065" started-at="2019-03-31T03:08:34Z" finished-at="2019-03-31T03:09:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35065" started-at="2019-03-31T03:08:34Z" finished-at="2019-03-31T03:09:09Z">
+      <class name="demo2.BankingApplicationDemo">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:demo2.BankingApplicationDemo@7c16905e]" name="openBrowser" is-config="true" duration-ms="21329" started-at="2019-03-31T03:08:34Z" finished-at="2019-03-31T03:08:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:demo2.BankingApplicationDemo@7c16905e]" name="login" duration-ms="5938" started-at="2019-03-31T03:08:55Z" finished-at="2019-03-31T03:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="validateFundTransfer()[pri:0, instance:demo2.BankingApplicationDemo@7c16905e]" name="validateFundTransfer" duration-ms="5156" started-at="2019-03-31T03:09:01Z" finished-at="2019-03-31T03:09:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFundTransfer -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:demo2.BankingApplicationDemo@7c16905e]" name="closeApplication" is-config="true" duration-ms="2536" started-at="2019-03-31T03:09:06Z" finished-at="2019-03-31T03:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- demo2.BankingApplicationDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
